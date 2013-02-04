@@ -5,7 +5,7 @@ http://project-first.eu/sites/project-first.eu/themes/zen/firstproject/logo.png 
 
 This is the GitHub distribution of the software developed in the Project FIRST.
 
-FIRST has a website at [project-first.eu](http://project-first.eu). Follow [@stormprocessor](https://twitter.com/projectfirst) on Twitter for updates on the project. 
+FIRST has a website at [project-first.eu](http://project-first.eu). Follow [@projectfirst](https://twitter.com/projectfirst) on Twitter for updates on the project. 
 
 FIRST develops and provides a large scale information extraction and integration infrastructure which will assist in various ways during the process of financial decision making.
 
